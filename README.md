@@ -1,4 +1,4 @@
-# Cartesi Linear Regression DApp
+# Lin Reg
 
 ## Overview
 
@@ -18,8 +18,8 @@ This is a decentralized application (DApp) built on the Cartesi platform that im
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/cartesi-linear-regression.git
-   cd cartesi-linear-regression
+   git clone https://github.com/watchdog19/cartesi-linear-regression.git
+   cd linreg
    ```
 
 2. **Install Dependencies**:
