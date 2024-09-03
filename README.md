@@ -69,13 +69,14 @@ This is a decentralized application (DApp) built on the Cartesi platform that im
 
   //your data needs to be hex encoded like so
   (assume the same for the other examples) 
-{
+```json {
   "command": "ADD_DATA",
   "data": {
     "X": "0x5b5b312c20325d2c205b322c20335d2c205b332c20345d5d",
     "y": "0x5b322c20332c20345d"
   }
 }
+```
 
   ```
 
